@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Mohammad Heidar Khamsehei Fadaei</h1>
 <h3 align="center">"Expert Robotics Researcher & Mechanical Engineer | Advanced in CAD, MSC ADAMS & MATLAB"</h3>
 
-<h5 align="left">"Highly motivated researcher with over five years of experience in field of robotics and control system, resulting in 2 publications in peer-reviewed scientific journals and 6 presentations at International conferences."
-<h5 align="left">"High-skilled mechanical engineer with 5+ years of experience in field of industrial drawing. Computer-Aided design experience, including using CATIA software in 6 academic projects and using SOLIDWORKS software for designing 2D and 3D CAD model, also redesigning mechanical parts in several industrial projects.
+- 🔭 Highly motivated researcher with over five years of experience in field of robotics and control system, resulting in 2 publications in peer-reviewed scientific journals and 6 presentations at International conferences.
+- 🔭 High-skilled mechanical engineer with 5+ years of experience in field of industrial drawing. Computer-Aided design experience, including using CATIA software in 6 academic projects and using SOLIDWORKS software for designing 2D and 3D CAD model, also redesigning mechanical parts in several industrial projects.
 "
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadfadaei-lab&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadfadaei-lab" /> </p>
 
