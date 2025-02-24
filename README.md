@@ -4,17 +4,35 @@
 
 - 🔭 Highly motivated researcher with over five years of experience in field of robotics and control system, resulting in 2 publications in peer-reviewed scientific journals and 6 presentations at International conferences.
 - 🔭 High-skilled mechanical engineer with 5+ years of experience in field of industrial drawing. Computer-Aided design experience, including using CATIA software in 6 academic projects and using SOLIDWORKS software for designing 2D and 3D CAD model, also redesigning mechanical parts in several industrial projects.
-"
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadfadaei-lab&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadfadaei-lab" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohammad-h-kh-fadaei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-h-kh-fadaei" height="30" width="40" /></a>
-<a href="https://medium.com/@mohammad-fadaei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mohammad-fadaei" height="30" width="40" /></a>
-</p>
+**Education:**
+- **Bachelor's Degree:** Industrial Drafting Technology Engineering, Islamic Azad University, Saveh Branch (2014)
+- **Master's Degree:** Manufacturing Engineering, Islamic Azad University, Saveh Branch (2016)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+**Professional Experience:**
+- **Robotics Researcher:** Self-employed in Tehran, Iran (October 2016 - Present)
+- **Research Assistant:** Islamic Azad University, Saveh Branch, Department of Mechanical Engineering (October 2014 - October 2016)
+
+**Interests and Expertise:**
+- Robotics
+- Control Engineering
+- Fuzzy Control
+- Adaptive Control
+- CATIA V5
+- ANSYS Workbench
+- MATLAB Simulation
+- Arduino
+- Python
+
+**About Me:**
+I was born in Tehran, Iran, and completed my education in Mechanical Engineering. My research primarily focuses on designing intelligent robotic walkers, and I have a keen interest in robotics and control engineering.
+
+**Contact:**
+- **ResearchGate:** [My Profile](https://www.researchgate.net/profile/Mohammad-Heidar-Khamsehei-Fadaei-2)
+- **ORCID:** [0000-0001-6425-0728](https://orcid.org/0000-0001-6425-0728)
+- **Medium:** [My Articles](https://mohammad-fadaei.medium.com/)
+- **LinkdIn:** [My Page](https://linkedin.com/in/mohammad-h-kh-fadaei)
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadfadaei-lab&show_icons=true&locale=en&layout=compact" alt="mohammadfadaei-lab" /></p>
 
