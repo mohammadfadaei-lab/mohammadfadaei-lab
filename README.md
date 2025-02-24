@@ -34,7 +34,7 @@ I was born in Tehran, Iran, and completed my education in Mechanical Engineering
 - **LinkdIn:** [My Page](https://linkedin.com/in/mohammad-h-kh-fadaei)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadfadaei-lab&show_icons=true&locale=en&layout=compact" alt="mohammadfadaei-lab" /></p>
+**Statistics:**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadfadaei-lab&show_icons=true&locale=en" alt="mohammadfadaei-lab" /></p>
 
